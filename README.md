@@ -1,5 +1,5 @@
 # Snake-Game
-It is a Colourfull Java Snake Game, The objective is to eat as many apples as possible. Each time the snake eats an apple its body grows with a different color. The snake must avoid the walls and its own body.
+It is a Java Snake Game, The objective is to eat as many apples as possible. Each time the snake eats an apple its body grows with a different color. The snake must avoid the walls and its own body.
 <br>
 It will also Update the score of how many apple snakes has eaten.
 <br>
